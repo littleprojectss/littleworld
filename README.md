@@ -1,2 +1,2 @@
-# littleworld.io
-Place every little ideas
+# littleworld page
+page for little world
